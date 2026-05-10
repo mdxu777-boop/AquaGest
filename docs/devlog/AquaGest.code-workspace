@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "AquaGest",
+			"path": "../../code/AquaGest"
+		}
+	],
+	"settings": {}
+}
